@@ -1,0 +1,27 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "namaste react",
+
+  "scripts": {
+    "start":"parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository":{
+    "type":"git",
+    "url":" https://github.com/luckysharda/Hello-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "lucky",
+  "license": "ISC",
+  "dependencies": {
+    "react":"18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
